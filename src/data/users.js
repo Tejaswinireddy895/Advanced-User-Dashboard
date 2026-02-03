@@ -1,0 +1,51 @@
+export const usersData = [
+  {
+    id: 1,
+    name: "Tejaswini Reddy",
+    email: "tejaswini@gmail.com",
+    role: "Admin",
+    status: "Active",
+    createdAt: "2024-01-10",
+  },
+  {
+    id: 2,
+    name: "Anusha",
+    email: "anusha@gmail.com",
+    role: "Manager",
+    status: "Inactive",
+    createdAt: "2024-02-12",
+  },
+  {
+    id: 3,
+    name: "Gayatri",
+    email: "gayatri@gmail.com",
+    role: "User",
+    status: "Active",
+    createdAt: "2024-03-05",
+  },
+  {
+    id: 4,
+    name: "Divya",
+    email: "divya@gmail.com",
+    role: "User",
+    status: "Active",
+    createdAt: "2024-03-20",
+  },
+  {
+    id: 5,
+    name: "Jahnavi",
+    email: "jahnavi@gmail.com",
+    role: "Manager",
+    status: "Inactive",
+    createdAt: "2024-04-01",
+  },
+  {
+    id: 6,
+    name: "Sudeep",
+    email: "sudeep@gmail.com",
+    role: "User",
+    status: "Active",
+    createdAt: "2024-04-15",
+  },
+];
+
